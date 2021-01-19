@@ -8,7 +8,8 @@ emulation tests for the purpose of the paper entitiled "Single and Multiple Bit 
 
 ## Getting Started
 
-First, extract the figure4.rar file to get the image. Then, open the HTML file with a web browser : 
+First, extract the figure4.rar file to get the image. Then, open the HTML file with a web browser.
+
 This application has been tested on : 
 * Firefox
 * Google Chrom . 
